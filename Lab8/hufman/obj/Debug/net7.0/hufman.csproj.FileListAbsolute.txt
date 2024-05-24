@@ -1,0 +1,14 @@
+C:\Univer\crypta\Lab8\hufman\bin\Debug\net7.0\hufman.exe
+C:\Univer\crypta\Lab8\hufman\bin\Debug\net7.0\hufman.deps.json
+C:\Univer\crypta\Lab8\hufman\bin\Debug\net7.0\hufman.runtimeconfig.json
+C:\Univer\crypta\Lab8\hufman\bin\Debug\net7.0\hufman.dll
+C:\Univer\crypta\Lab8\hufman\bin\Debug\net7.0\hufman.pdb
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.AssemblyInfoInputs.cache
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.AssemblyInfo.cs
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.csproj.CoreCompileInputs.cache
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.dll
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\refint\hufman.dll
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.pdb
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\hufman.genruntimeconfig.cache
+C:\Univer\crypta\Lab8\hufman\obj\Debug\net7.0\ref\hufman.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S80EtcvFpwEh0ax/H++Qe7XEoooLrVOct/vUH4X+GiYoONLFgj791uFIf8nWNu70FURVEA8NpLRx9YT30cluqg==",
+  "success": true,
+  "projectFilePath": "C:\\Univer\\crypta\\Lab9\\Lab9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimav\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Dimav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Dimav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Dimav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

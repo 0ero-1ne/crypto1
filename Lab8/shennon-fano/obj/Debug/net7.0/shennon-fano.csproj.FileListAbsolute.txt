@@ -1,0 +1,14 @@
+C:\Univer\crypta\Lab8\shennon-fano\bin\Debug\net7.0\shennon-fano.exe
+C:\Univer\crypta\Lab8\shennon-fano\bin\Debug\net7.0\shennon-fano.deps.json
+C:\Univer\crypta\Lab8\shennon-fano\bin\Debug\net7.0\shennon-fano.runtimeconfig.json
+C:\Univer\crypta\Lab8\shennon-fano\bin\Debug\net7.0\shennon-fano.dll
+C:\Univer\crypta\Lab8\shennon-fano\bin\Debug\net7.0\shennon-fano.pdb
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.AssemblyInfoInputs.cache
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.AssemblyInfo.cs
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.csproj.CoreCompileInputs.cache
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.dll
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\refint\shennon-fano.dll
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.pdb
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\shennon-fano.genruntimeconfig.cache
+C:\Univer\crypta\Lab8\shennon-fano\obj\Debug\net7.0\ref\shennon-fano.dll

@@ -1,0 +1,14 @@
+C:\Univer\crypta\Lab2\Lab2\bin\Debug\net7.0\Lab2.exe
+C:\Univer\crypta\Lab2\Lab2\bin\Debug\net7.0\Lab2.deps.json
+C:\Univer\crypta\Lab2\Lab2\bin\Debug\net7.0\Lab2.runtimeconfig.json
+C:\Univer\crypta\Lab2\Lab2\bin\Debug\net7.0\Lab2.dll
+C:\Univer\crypta\Lab2\Lab2\bin\Debug\net7.0\Lab2.pdb
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.AssemblyInfoInputs.cache
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.AssemblyInfo.cs
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.dll
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\refint\Lab2.dll
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.pdb
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\Lab2.genruntimeconfig.cache
+C:\Univer\crypta\Lab2\Lab2\obj\Debug\net7.0\ref\Lab2.dll
